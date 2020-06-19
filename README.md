@@ -1,4 +1,4 @@
-https://laravelurlshortener.herokuapp.com
+https://laravelwebscraper.herokuapp.com
 
 
 routes
